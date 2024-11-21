@@ -1,0 +1,3 @@
+hey first !!
+to install pacjages -> npm -g <packagename>
+lodash provides tools for modifying arrays strings and objects.
